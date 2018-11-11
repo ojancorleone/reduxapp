@@ -2,6 +2,7 @@
   "name": "reduxapp",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://ojancorleone.github.io/reduxapp/",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
